@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "994238370531",
+    "project_id": "fish-shooting-567a8",
+    "storage_bucket": "fish-shooting-567a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994238370531:android:07add9f7689d442e1bebd6",
+        "android_client_info": {
+          "package_name": "com.fishshooting.toannguyenkhanh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994238370531-dl3kkc8488pberci1si68dubk510ui87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDytPHYZLuGmn9NCOe8Prui9JCeetKQHd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994238370531-dl3kkc8488pberci1si68dubk510ui87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4794354256210815~1042199257"
+    }
+  ],
+  "configuration_version": "1"
+}
